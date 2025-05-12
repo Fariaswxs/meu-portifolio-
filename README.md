@@ -13,7 +13,7 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Clara _</p>
-        <h1>Eu estudo</h1>
+        <h1>Eu estudo sobre computação</h1>
         <p>Sou Estudante do novo ensino medio.Eatualmente estou apredendo sobre HTML, CSS e JavaScript. Veja os projetos
             que já desenvolvi!</p>
         <p>Minhas habilidades</p>
